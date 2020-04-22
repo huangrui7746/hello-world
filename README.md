@@ -1,2 +1,4 @@
 # hello-world
-just an repository
+
+Hi huang,
+you are explored!
